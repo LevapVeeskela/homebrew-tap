@@ -1,9 +1,9 @@
 class Vigil < Formula
   desc "Local-first security auditor with 263 deterministic rules and an MCP server"
   homepage "https://github.com/LevapVeeskela/lv24-vigil"
-  url "https://github.com/LevapVeeskela/lv24-vigil/archive/refs/tags/v0.9.2.tar.gz"
-  version "0.9.2"
-  sha256 "46a36f9857c3d685d68e6e3888ba535185fe5b12386a939964154a31cc00c470"
+  url "https://github.com/LevapVeeskela/lv24-vigil/archive/refs/tags/v0.9.3.tar.gz"
+  version "0.9.3"
+  sha256 "08071c64fc946d0bab940b2d585be80aa88c2967d1b78331ee0e9278572c2cdf"
   license "Apache-2.0"
 
   depends_on "go" => :build
